@@ -1,0 +1,1 @@
+# trueFaithJournalv1.0
