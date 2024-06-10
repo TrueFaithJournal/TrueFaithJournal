@@ -101,6 +101,10 @@ height: 100%;
     transition: all 0.3s ease;
 }
 
+ul {
+    list-style-type: none;
+}
+
 @media screen and (max-width: 960px) {
     .navbar__container {
         display: flex;
