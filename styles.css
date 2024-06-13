@@ -48,7 +48,7 @@
 }
 
 .navbar__menu {
-    display: flex;
+    display: inline-block;
     align-items: center;
     list-style: none;
     text-align: center;

@@ -1,0 +1,23 @@
+{
+  "name": "truefaithjournal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueFaithJournal/TrueFaithJournal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrueFaithJournal/TrueFaithJournal/issues"
+  },
+  "homepage": "https://github.com/TrueFaithJournal/TrueFaithJournal#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
