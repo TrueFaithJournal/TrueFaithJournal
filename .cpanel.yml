@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/urtxvjmy/public_html/
+    - export DEPLOYPATH=/home2/urtxvjmy/Users/calvinfavors/Desktop/TrueFaithJournal
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp styles.css $DEPLOYPATH

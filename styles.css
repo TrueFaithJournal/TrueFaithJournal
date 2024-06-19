@@ -207,6 +207,7 @@ ul {
 
 .main {
     background-color: #fff;
+    background-image: url(images/backgrounds.jpeg);
 }
 
 .main__container {
